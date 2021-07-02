@@ -1,1 +1,1 @@
-# Tine
+# Simple website using bootstrap 
